@@ -1,6 +1,3 @@
-# ddos
-
-
 
 ## Clone && Instalação
 ```
