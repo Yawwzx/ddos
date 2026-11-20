@@ -6,7 +6,7 @@
 
 **Disclaimer:** The author is not responsible for damages, service unavailability, data loss, or security breaches caused by the improper use of this tool. 
 #
-## Clone && Instalação
+# Clone && Instalação
 ```
 git clone https://github.com/Yawwzx/ddos
 cd ddos
