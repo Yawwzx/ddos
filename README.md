@@ -10,4 +10,4 @@ This tool is intended exclusively for **security auditing and academic research*
 ```
 git clone https://github.com/Yawwzx/ddos
 cd ddos
-python3 y7ddos.py
+python3 y7ddos.py```
